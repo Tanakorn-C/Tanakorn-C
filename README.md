@@ -13,6 +13,6 @@
 ![Unity](https://img.shields.io/badge/unity-%23000000.svg?style=for-the-badge&logo=unity&logoColor=white)
 
 ### 📫 Connect with me
-[![Portfolio](https://img.shields.io/badge/Portfolio-Visit%20Website-2ea44f?style=for-the-badge&logo=github&logoColor=white)](https://tanakorn-c.github.io/)
-[![Gmail](https://img.shields.io/badge/Gmail-Contact%20Me-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:tanakorn.cn159@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/tanakorn-c-092038346)
+[![Portfolio](https://img.shields.io/badge/-Portfolio-2ea44f?style=for-the-badge&logo=google-chrome&logoColor=white)](https://tanakorn-c.github.io/)
+[![Gmail](https://img.shields.io/badge/-Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:tanakorn.cn159@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/tanakorn-c-092038346)
