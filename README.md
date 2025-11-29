@@ -1,5 +1,5 @@
 ### Hi there, I'm Tanakorn 👋
-**Software Developer Intern Candidate**
+
 
 
 - 🔭 I’m currently working on: **[Coding is Magic]**
