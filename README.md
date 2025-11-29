@@ -14,5 +14,5 @@
 
 ### 📫 Connect with me
 [![Portfolio](https://img.shields.io/badge/-Portfolio-2ea44f?style=for-the-badge&logo=google-chrome&logoColor=white)](https://tanakorn-c.github.io/)
-[![Gmail](https://img.shields.io/badge/-Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:tanakorn.cn159@gmail.com)
+[![Gmail](https://img.shields.io/badge/-tanakorncn.159@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:tanakorn.cn159@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/tanakorn-c-092038346)
