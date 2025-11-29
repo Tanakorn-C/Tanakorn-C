@@ -12,7 +12,7 @@ Computer Science student · Software Developer
 ### 🚀 Featured Projects
 
 - [**Medicine Reminder Application**](https://github.com/Tanakorn-C/Medicine-Reminder-Flutter)
-  A Full-Stack Medication Management System designed to improve patient adherence. Built with **Flutter** (Android) and **Spring Boot** (Backend) to handle scheduling, image recognition, and custom alarm triggers.
+  A Full-Stack Medication Management System designed to improve patient adherence. Built with **Flutter** (Android) and **Spring Boot** (Backend) to handle scheduling and custom alarm triggers.
   
 - [**Coding is Magic**](https://github.com/Tanakorn-C/Coding-is-Magic-RPG)
   A Turn-Based Adventure Game for Learning Python Programming. Developed in **Unity (C#)** to gamify education, featuring dynamic combat logic where spell-casting effectiveness depends on coding quiz accuracy.
