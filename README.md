@@ -4,7 +4,6 @@
 
 - 🔭 I’m currently working on: **[Coding is Magic]**
 - 🌱 I’m currently learning: **C# & Data Analytics**
-- 💼 Connect with me on [LinkedIn](https://www.linkedin.com/in/tanakorn-c-092038346/)
 
 ### 🛠 Tech Stack
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
